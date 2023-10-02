@@ -1,0 +1,28 @@
+{
+  "balance_sheet":
+  [
+    {
+    "main_position":"balance_sheet",
+    "url" : "raporty-finansowe-bilans",
+    "sub_positions":
+    [
+      {
+        "name": "Balance Capital",
+        "website_name": "BalanceCapital"
+      },
+      {
+        "name": "Current Assets",
+        "website_name": "BalanceCurrentAssets"
+      },
+      {
+        "name": "Current Liabilities",
+        "website_name": "BalanceCurrentLiabilities"
+      },
+      {
+        "name": "Total Assets",
+        "website_name" : "BalanceTotalAssets"
+      }
+    ]
+    }
+  ]
+}
